@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## [Personal Portfolio](https://mainczjs.github.io)
 
-You can use the [editor on GitHub](https://github.com/mainczjs/mainczjs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you are interested in my academic and/or professional history, you can find my CV [here](CV.md) or download it as PDF document [here](CV.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Note
 
-### Markdown
+This site is currently **work in progress**. Below is a list of things I want to add in the future:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mainczjs/mainczjs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [ ] Overview of University Subjects and Contents
+- [ ] Blog Entries about certain Projects at University
+- [ ] Learning Resources
+- [ ] Overview of Software utilized over the course of my studies
+- [ ] Description of Hobby Projects and possible Blog Entries
+- [ ] Some sort of Social Media Integration
