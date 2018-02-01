@@ -1,6 +1,6 @@
-**Curriculum Vitae**
+# CV
 
-# PERSONAL INFORMATION
+## PERSONAL INFORMATION
 
 <table>
 <tbody>
@@ -17,19 +17,17 @@
 <td>German</td>
 </tr>
 <tr class="even">
-<td>Address:</td>
-<td><p>Kappengasse 12</p>
-<p>90402 Nuremberg</p></td>
+<td>Residence:</td>
+<td>Nuremberg</td>
 </tr>
 <tr class="odd">
 <td>Contact:</td>
-<td><p>+49 151 445 444 61</p>
-<p>jmainczyk@gmail.com</p></td>
+<td>jmainczyk@gmail.com</td>
 </tr>
 </tbody>
 </table>
 
-# EDUCATION
+## EDUCATION
 
 <table>
 <tbody>
@@ -63,7 +61,7 @@
 </tbody>
 </table>
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 <table>
 <tbody>
@@ -110,14 +108,14 @@
 </tbody>
 </table>
 
-# LANGUAGE SKILLS
+## LANGUAGE SKILLS
 
 German Native speaker
 
 English Fluent (worked in the US for 6 months, various language study
 trips around the world)
 
-# SCHOLARSHIPS & FURTHER EDUCATION
+## SCHOLARSHIPS & FURTHER EDUCATION
 
 04/2017 – 07/2017 STANFORD UNIVERSITY / COURSERA
 
@@ -145,7 +143,7 @@ trips around the world)
 > called „Jugend Maria Schutz“ as custodian of several youth summer
 > camps and part of the group’s directorate.
 
-# ADDITIONAL CAPABILITIES
+## ADDITIONAL CAPABILITIES
 
 Programming Profound knowledge of Python and VBA
 
@@ -166,12 +164,3 @@ SPSS Basic knowledge of linear regression models and exploratory data
 analysis
 
 Sports Running, Tennis
-
-NOT USED:
-
-10/2012 – 10/2015 UNIVERSITY OF ERLANGEN-NUREMBERG, STUDENT
-
-REPRESENTATIVE GROUP „FSI WING“
-
-PRESIDENT, DESIGNER: *Corporate Design, Print Media Design,
-Teambuilding*
