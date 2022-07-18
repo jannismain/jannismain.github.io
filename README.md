@@ -1,6 +1,4 @@
-## [Personal Portfolio](https://mainczjs.github.io)
-
-If you are interested in my academic and/or professional history, you can find my CV [here](CV.md) or download it as PDF document [here](CV.pdf).
+# [Personal Portfolio](https://jannismain.github.io)
 
 A link to an overview of the results of my master thesis are linked [here](_projects/SourceTracking.md)
 
