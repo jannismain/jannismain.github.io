@@ -3,6 +3,7 @@ title: Downgrading Swiftread Chrome Extension
 subtitle: ...or how I came to dislike automatic updates.
 summary: The Swiftread Chrome extension was updated to put basic features behind a subscription. The Chrome extension store doesn't allow sticking with older versions (i.e. not updating) so I had to get creative.
 date: 2023-01-12T11:04:00+02:00
+toc: false
 ---
 
 As I was browsing around the internet, I though I give "Swiftread" another chance, since I needed to read a couple of articles and thought this could save me some time. Oh boy, was I wrong.
