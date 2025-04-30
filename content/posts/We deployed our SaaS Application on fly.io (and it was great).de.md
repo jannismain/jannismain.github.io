@@ -20,7 +20,7 @@ Wir haben keine hohen Anforderungen. Wir möchten lediglich, dass unsere Web Anw
 
 ## fly.io zur Rettung
 
-Ich bin fest davon überzeugt, dass gute Produkte und Dienstleistungen ihre Nutzer dort abholen sollten, wo sie sind. Als Cloud-Neuling hatte ich nicht das Gefühl, dass AWS mich dort abholt, wo ich aktuell stehe. Ich habe mich also nach etwas anderem umgesehen. In [einem Podcast](https://podcasts.apple.com/de/podcast/xe-iaso-on-fly-io/id120906714) habe ich das erste Mal von fly.io gehört. Deren Slogan:
+Ich bin fest davon überzeugt, dass gute Produkte und Dienstleistungen ihre Nutzer dort abholen sollten, wo sie sind. Als Cloud-Neuling hatte ich nicht das Gefühl, dass AWS mich dort abholt, wo ich aktuell stehe. Ich habe mich also nach etwas anderem umgesehen. In [einem Podcast][podcast] habe ich das erste Mal von fly.io gehört. Deren Slogan:
 
 
 > A Public Cloud Built For Developers Who Ship
@@ -50,3 +50,5 @@ Es stellt sich heraus, dass `flyctl` unsere Client-Server-Anwendung zwar erkannt
 Die Bereitstellung dauerte weniger als 4 Stunden und das Arbeiten mit der Dokumentation hat wirklich Spaß gemacht. Ich hatte immer das Gefühl, auf dem richtigen Weg zu sein, was ich nach der kurzen Begegnung mit dem Angebot von AWS nicht sagen konnte. Meine Kollegen haben währenddessen in den sauren Apfel gebissen und die Bereitstellung auf AWS weiter verfolgt. Wir haben jetzt also zwei Instanzen unserer Anwendung. Eine davon läuft netterweise kostenlos (da fly.io keine Rechnungen für Deployments stellt, die Kosten von weniger als 5 Euro pro Monat verursachen). Für die andere Instanz mussten wir uns eine Genehmigung einholen, da die anfallenden monatlichen Kosten bereits am Anfang über 100 Euro lagen, ohne dass nur ein Benutzer die Anwendung je gesehen hatte.
 
 Ich bin mir sicher, dass unsere AWS-Instanz noch nicht kostenoptimal ist. Außerdem bin ich mir bewusst, dass AWS die reifere und flexiblere Plattform ist. Es gibt schließlich Gründe, warum sie der Marktführer in diesem Segment sind (und das schon seit geraumer Zeit). *Aber wenn ich meine nächste Anwendung entwickle und sie potenziellen Nutzern so früh wie möglich im Entwicklungs-Lebenszyklus zeigen möchte, werde ich auf jeden Fall wieder auf fly.io zurückgreifen.*
+
+[podcast]: https://podcasts.apple.com/de/podcast/xe-iaso-on-fly-io/id120906714?i=1000659542270

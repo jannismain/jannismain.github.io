@@ -22,7 +22,7 @@ We don't have complicated needs. We just want our static single-page application
 
 ## Enter fly.io
 
-I have the deep-seated belief that good products and services meet their users where they are. As a cloud novice, I did not see AWS meeting me where I am. So I tried something different. I remembered hearing about fly.io on [a podcast](https://podcasts.apple.com/de/podcast/xe-iaso-on-fly-io/id120906714) and visited their site. Their tagline:
+I have the deep-seated belief that good products and services meet their users where they are. As a cloud novice, I did not see AWS meeting me where I am. So I tried something different. I remembered hearing about fly.io on [a podcast][podcast] and visited their site. Their tagline:
 
 > A Public Cloud Built For Developers Who Ship
 >
@@ -50,3 +50,5 @@ It turns out that `flyctl` was able to detect our client and server application 
 The deployment took less than 4 hours and working through the documentation was actually enjoyable. I always felt like I was on the right track, something I never experienced in the brief encounter with AWS and its offerings. Meanwhile, my colleagues bit the bullet and powered through the deployment on AWS. So we now have two instances of our application. One is basically free (as fly.io doesn't charge for deployments that stay below 5 Euros per month), the other one needed approval from Finance, as the accrued monthly cost was already above 100 Euros without any users actually visiting it yet.
 
 I'm sure our AWS deployment is not really cost-optimal yet. Also, I acknowledge that AWS is the more mature and flexible platform. There are certainly reasons why they are the dominant player (and have been for quite some time). *But when I'm building my next application and want to show it to potential users as early as possible in the development lifecycle, I will definitely go with fly.io again.*
+
+[podcast]: https://podcasts.apple.com/de/podcast/xe-iaso-on-fly-io/id120906714?i=1000659542270
