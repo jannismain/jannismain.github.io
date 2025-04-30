@@ -484,3 +484,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt NEW | 0.2.0 Analytics config
   [params.analytics]
     enable = false
+
+[languages]
+  [languages.en]
+    weight = 0
+    disabled = false
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = ''
+  [languages.de]
+    weight = 1
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
