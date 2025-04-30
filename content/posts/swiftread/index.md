@@ -6,7 +6,7 @@ date: 2023-01-12T11:04:00+02:00
 toc: false
 ---
 
-As I was browsing around the internet, I though I give "Swiftread" another chance, since I needed to read a couple of articles and thought this could save me some time. Oh boy, was I wrong.
+As I was browsing around the internet, I thought I give *Swiftread*[^2] another chance, since I needed to read a couple of articles and thought this could save me some time. Oh boy, was I wrong.
 
 When I started Swiftread I noticed, that the keyboard shortcuts I was used to no longer worked. I could open Swiftread using ⌥V and start the reader using SPACE, but that was about it. What is going on?
 
@@ -35,3 +35,4 @@ So while I'm at it, I eliminated all those PRO upsell banners that stick out lik
 Ok, so finally loading the modified extension into the browser and voilà: I have Swiftread in its older, more basic but fully-functional and (for me) sufficient form back at my fingertips. Great!
 
 [^1]: https://docs.fileformat.com/misc/crx/
+[^2]: https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno
