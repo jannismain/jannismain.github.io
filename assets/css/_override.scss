@@ -1,0 +1,26 @@
+$global-line-height: 1.5rem !important;
+
+/* Extend title area to left, so that anchor link is visible
+when user hovers left of the title as well */
+.single .content h2 {
+  padding-left: 30px;
+  transform: translateX(-30px);
+}
+
+/* pull the anchor out of the flow and hide it */
+.single .content h2 .header-mark {
+  position: absolute;
+  left: 0px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+/* show anchor-link on hover over title */
+.single .content h2:hover .header-mark {
+  opacity: 1;
+}
+
+/* show anchor-link when focused (for keyboard access) */
+.single .content h2 .header-mark:focus {
+  opacity: 1;
+}
