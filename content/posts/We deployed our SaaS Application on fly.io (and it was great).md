@@ -25,7 +25,9 @@ We don't have complicated needs. We just want our static single-page application
 I have the deep-seated belief that good products and services meet their users where they are. As a cloud novice, I did not see AWS meeting me where I am. So I tried something different. I remembered hearing about fly.io on [a podcast](https://podcasts.apple.com/de/podcast/xe-iaso-on-fly-io/id120906714) and visited their site. Their tagline:
 
 > A Public Cloud Built For Developers Who Ship
+>
 > ...
+>
 > Deploy your App in 5 minutes.
 
 Hey, that's me! And that's precisely what I had in mind when estimating our cloud deployment story. So how to get started? Well, with the Getting Started docs, of course! And as I was looking for a quick start to find out whether this could replace our plans for AWS, I started with the [Quickstart](https://fly.io/docs/getting-started/launch/) guide.
