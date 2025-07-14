@@ -2,7 +2,7 @@
 title: "Telemedicine TUM"
 date: 2021-07-19T10:19:51+02:00
 draft: false
-tags: ["swift", "healthkit", "ios", "design", "backend"]
+tags: ["Swift", "UI"]
 ---
 
 # Telemedicine TUM

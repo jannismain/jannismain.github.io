@@ -3,7 +3,7 @@ title: We deployed our SaaS Application on fly.io (and it was great)
 subtitle: How we deployed our application in a fraction of the time while saving 100% of the cost.
 date: 2024-10-23
 toc: false
-language: de
+tags: ["Cloud"]
 ---
 
 Our team, a bunch of experienced software engineers without prior contact to cloud deployments, wanted to deploy our OCPP-compliant EV Charging Station Simulator (EVCSS) publicly, so that early users and other stakeholders can easily test it.
@@ -45,7 +45,7 @@ That was everything required to deploy our application on fly.io. My mind was bl
 
 It turns out that `flyctl` was able to detect our client and server application and found our docker container, but wasn't able to configure the WebSocket connection between client and server correctly. Also, we didn't have a health-endpoint yet to validate our server is indeed up and running. So after a bit of reading through their documentation (which is a highly rewarding experience, as far as reading documentation goes) and implementing the necessary endpoint to validate our app is deployed correctly, everything was working as it should. And the best part, it was not even lunchtime yet.
 
-## Finally, Bliss.
+## Finally, Bliss
 
 The deployment took less than 4 hours and working through the documentation was actually enjoyable. I always felt like I was on the right track, something I never experienced in the brief encounter with AWS and its offerings. Meanwhile, my colleagues bit the bullet and powered through the deployment on AWS. So we now have two instances of our application. One is basically free (as fly.io doesn't charge for deployments that stay below 5 Euros per month), the other one needed approval from Finance, as the accrued monthly cost was already above 100 Euros without any users actually visiting it yet.
 

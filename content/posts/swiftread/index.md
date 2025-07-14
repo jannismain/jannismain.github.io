@@ -4,6 +4,7 @@ subtitle: ...or how I came to dislike automatic updates.
 summary: The Swiftread Chrome extension was updated to put basic features behind a subscription. The Chrome extension store doesn't allow sticking with older versions (i.e. not updating) so I had to get creative.
 date: 2023-01-12T11:04:00+02:00
 toc: false
+tags: ["Browser Extension"]
 ---
 
 As I was browsing around the internet, I thought I give *Swiftread*[^2] another chance, since I needed to read a couple of articles and thought this could save me some time. Oh boy, was I wrong.
@@ -34,5 +35,5 @@ So while I'm at it, I eliminated all those PRO upsell banners that stick out lik
 
 Ok, so finally loading the modified extension into the browser and voilà: I have Swiftread in its older, more basic but fully-functional and (for me) sufficient form back at my fingertips. Great!
 
-[^1]: https://docs.fileformat.com/misc/crx/
-[^2]: https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno
+[^1]: <https://docs.fileformat.com/misc/crx/>
+[^2]: <https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno>
